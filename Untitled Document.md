@@ -29,10 +29,10 @@ Dillinger uses a number of open source projects to work properly:
 
 
 - **kaggle**- In this web app first i collect the data from kaggle.com the data is .csv file 
--  **jupyter noebook** -In this project i use Jupyter Notebook for analysing the data,cleaning the data and preprocessing the data. 
--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1**. In jupyter notebook atfirst i import the python libraries 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**a**.Pandas
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**b**.Numpy
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**c**.Matplotlib
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**d**.Seaborn
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**e**.SKLearn
+-  **jupyter noebook** -In this project i use Jupyter Notebook for analysing the data,cleaning the data and preprocessing the data.In jupyter notebook atfirst i import the python libraries 
+**a**.Pandas
+**b**.Numpy
+**c**.Matplotlib
+**d**.Seaborn
+**e**.SKLearn
+
