@@ -29,10 +29,15 @@ Dillinger uses a number of open source projects to work properly:
 
 
 - **kaggle**- In this web app first i collect the data from kaggle.com the data is .csv file 
--  **jupyter noebook** -In this project i use Jupyter Notebook for analysing the data,cleaning the data and preprocessing the data.In jupyter notebook atfirst i import the python libraries 
+-  **jupyter noebook** -In this project i use Jupyter Notebook for analysing the data,cleaning the data and preprocessing the data.For this process  atfirst i import the python libraries 
 **a**.Pandas
 **b**.Numpy
 **c**.Matplotlib
 **d**.Seaborn
-**e**.SKLearn
-
+after that i build the machine using python libraries
+**a**.Sklearn
+**b**.nltk
+- then i dumb it in pickle file useing **pickle library** and pickle file waa created
+- then i use **streamlit library** for create a web app and i create the phototype of that web app using steamlit 
+- finally i pushed it in in heroku server and the model works like amezing .
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thank you**
