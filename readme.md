@@ -15,7 +15,7 @@ This is a movie Recommender System which is build in python libraries like
 ## Features
 
 - Using this web app you can see the reccommendation movies name
-- you can see the movie poster also
+- you can see the movie's poster also
 - the recommendation is perfect
 - this web-app is safe
 
