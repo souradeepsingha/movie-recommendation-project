@@ -54,7 +54,7 @@ Used the auto ML library in python called PyCaret. Compared all the regression m
 Link to my article: <a href="https://towardsdatascience.com/leverage-the-power-of-pycaret-d5c3da3adb9b">https://towardsdatascience.com/leverage-the-power-of-pycaret-d5c3da3adb9b</a>
 
 # Model Deployment
-I have deployed the model using Streamlit library and flask framework on Heroku which is a Platform As A Service(PAAS)
+I have deployed the model using Streamlit library and flask frameworks on Heroku which is a Platform As A Service(PAAS)
 ![](images/heroku_app.png)
 ![](images/heroku_app2.png)
 
